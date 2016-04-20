@@ -1,0 +1,28 @@
+name: the_japanese_tattoo
+favicon: null
+layout_spectrum: 0.9431171475443989
+typography_spectrum: 0.625742566306144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21502689202316105
+  lightness: 0.10636808886192739
+  saturation: 0.6174551600124687
+  rhythmicContrast: 0.5968522753100842
+purpose: []
